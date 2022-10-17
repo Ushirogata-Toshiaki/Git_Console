@@ -5,9 +5,9 @@
 
 int main()
 {
+    int number = 0;
+    int sum = number + 2;
     std::cout << "Hello GitHub!\n";
-
-
     std::cout << "Hello NewBranchChanged!\n";
 }
 
