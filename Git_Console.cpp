@@ -5,10 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello GitHub!\n";
-
-
-    std::cout << "Hello NewBranchChanged!\n";
+    int number = 0;
+    int sum = number + 2;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
