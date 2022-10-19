@@ -5,8 +5,8 @@
 
 int main()
 {
-    int a = 50;
-    std::cout << "Changed!"<<a<<"\n";
+    std::cout << "Changed!\n";
+    std::cout << "Changed!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
