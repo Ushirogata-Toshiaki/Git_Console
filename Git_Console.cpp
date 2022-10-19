@@ -6,9 +6,7 @@
 int main()
 {
     int a = 50;
-    int b = 100;
     std::cout << "Changed!"<<a<<"\n";
-    std::cout << "Change!"<<b<<"\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
