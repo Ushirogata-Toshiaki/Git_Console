@@ -5,9 +5,10 @@
 
 int main()
 {
-    std::cout << "Changed!\n";
-    std::cout << "Change!\n";
-    std::cout << "Add!\n";
+    int a = 50;
+    int b = 100;
+    std::cout << "Changed!"<<a<<"\n";
+    std::cout << "Change!"<<b<<"\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
