@@ -5,8 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello Local_GitHubWorld!\n";
-    std::cout << "Hello Local_ConflictBranch!\n";
+    std::cout << "Hello Marge_GitHubWorld!\n";
+    std::cout << "Hello Marge_ConflictBranch!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
