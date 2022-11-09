@@ -5,9 +5,9 @@
 
 int main()
 {
+    std::cout << "Hello ConflictBranch0!\n";
     std::cout << "Hello ConflictBranch1!\n";
     std::cout << "Hello ConflictBranch2!\n";
-    std::cout << "Hello ConflictBranch3!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
